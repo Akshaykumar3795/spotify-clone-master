@@ -43,7 +43,7 @@ Open the app in your browser:
 http://localhost:3000
 
 📸 Screenshots
-Add screenshots of your project here (UI of the player, playlists, etc.).
+
 
 💬 Contact
 If you have any questions or feedback, feel free to reach out!
